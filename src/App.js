@@ -13,7 +13,7 @@ class App extends Component {
         <BrowserRouter>
           <Route exact path='/' render={() => <Users />} />
           <Route
-            exact
+            // exact
             path='/user/:id'
             render={props => <Profile {...props} />}
           />
