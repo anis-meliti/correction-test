@@ -1,0 +1,31 @@
+.header {
+  height: 250px;
+  background: #027fa2;
+}
+.img-profile {
+  border-radius: 50%;
+  border: 5px solid #fff;
+}
+.row-img-profile {
+  margin-top: -8%;
+}
+.name-label {
+  color: #505151;
+  font-weight: 600;
+}
+.email-label {
+  color: #5592e6;
+  font-weight: 400;
+  line-height: 1.5;
+}
+.adress-label {
+  color: #979797;
+  font-weight: 300;
+  line-height: 1;
+}
+.post-container {
+  background-color: #f4f4f4;
+}
+.back-link:hover {
+  cursor: pointer;
+}
